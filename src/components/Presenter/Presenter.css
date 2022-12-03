@@ -1,0 +1,21 @@
+.--presenter-presenter-container{
+    width:100%;
+}
+
+.--presenter-presenter-swatch{
+    width:100%;
+    height:50px;
+}
+
+.--presenter-presenter-info{
+    text-align: center;
+}
+
+@media screen and (min-width:768px) {
+    .--presenter-presenter-container{
+        width:12%;
+    }
+    .--presenter-presenter-swatch{
+        height:500px;
+    }
+}
