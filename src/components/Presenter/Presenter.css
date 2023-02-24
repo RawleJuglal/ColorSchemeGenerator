@@ -9,6 +9,12 @@
 
 .--presenter-presenter-info{
     text-align: center;
+    margin:1em 0;
+}
+
+.--presenter-presenter-value{
+    display:inline;
+    text-shadow:1px 1px 4px whitesmoke;
 }
 
 @media screen and (min-width:768px) {
